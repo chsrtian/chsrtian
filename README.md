@@ -1,6 +1,10 @@
 <h1 align="center">Hi there, I'm Christian Roble 👋</h1>
 
 <p align="center">
+  <img src="./assets/profile.jpg" alt="Christian Roble" width="200" style="border-radius: 50%;">
+</p>
+
+<p align="center">
   <em>Aspiring Web Developer | IT Student | Lifelong Learner</em>
 </p>
 
