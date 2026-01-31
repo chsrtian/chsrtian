@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Christian Roble 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chsrtian/chsrtian/main/webcam-toy-photo3.jpg" alt="Christian Roble" width="200" style="border-radius: 50%;">
+  <img src="https://raw.githubusercontent.com/chsrtian/chsrtian/main/solo.jpeg"  alt="Banner" width="100%" height="200" style="object-fit: cover;">
 </p>
 
 <p align="center">
